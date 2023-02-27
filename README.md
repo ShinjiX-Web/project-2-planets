@@ -7,10 +7,10 @@
 > - Sass
 
 ## 👨‍🏫 Instructor
-> PocketDevs CEO & Co-founder **[Bryl Lim](https://github.com/bryllim)**
+> PocketDevs CEO & Co-founder **Nate](https://github.com/bryllim)**
 
 ## 👨‍💻 Authors
-> - **[Nate Panares](https://github.com/alandemol2022)**
+> - **[Nate Panares](https://github.com/ShinjiX-Web)**
 > - **[Allen Adres](https://github.com/Gelai05)**
 > - **[Wayne Caballero](https://github.com/jasonlerit)**
 
