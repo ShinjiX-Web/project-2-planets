@@ -10,10 +10,9 @@
 > PocketDevs CEO & Co-founder **[Bryl Lim](https://github.com/bryllim)**
 
 ## 👨‍💻 Authors
-> - **[Alan Demol](https://github.com/alandemol2022)**
-> - **[Angela Morales](https://github.com/Gelai05)**
-> - **[Jason Lerit](https://github.com/jasonlerit)**
-> - **[Jomar Clado](https://github.com/jomar567)**
+> - **[Nate Panares](https://github.com/alandemol2022)**
+> - **[Allen Adres](https://github.com/Gelai05)**
+> - **[Wayne Caballero](https://github.com/jasonlerit)**
 
 ---
 
